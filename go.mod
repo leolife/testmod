@@ -1,1 +1,1 @@
-module github.com/leolife/testmod
+module github.com/leolife/testmod/v2
